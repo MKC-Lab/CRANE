@@ -5,7 +5,7 @@ Pytorch implementation for "Cross-Modal Attention Network with Dual Graph Learni
 
 ## Overview of FREEDOM
 <p>
-<img src="./images/CRANE.png" width="400">
+<img src="./CRANE/images/CRANE.png" width="400">
 </p>
 
 ## Data  
